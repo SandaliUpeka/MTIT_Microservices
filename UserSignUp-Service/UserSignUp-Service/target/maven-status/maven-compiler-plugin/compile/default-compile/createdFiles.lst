@@ -1,0 +1,4 @@
+com\sliit\mtit\microservice\UserSignUpService\controller\UserSignUpController.class
+com\sliit\mtit\microservice\UserSignUpService\dto\UserSignUpResponse.class
+com\sliit\mtit\microservice\UserSignUpService\UserSignUpServiceApplication.class
+com\sliit\mtit\microservice\UserSignUpService\dto\UserSignUpRequest.class
