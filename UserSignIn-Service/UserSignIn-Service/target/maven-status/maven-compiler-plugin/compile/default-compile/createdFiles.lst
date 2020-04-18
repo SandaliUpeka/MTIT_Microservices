@@ -1,0 +1,8 @@
+com\sliit\mtit\microservice\UserSignInService\dto\UserSignInRequest.class
+com\sliit\mtit\microservice\UserSignInService\controller\UserSignInController.class
+com\sliit\mtit\microservice\UserSignInService\dto\UserSignUpCreationResponse.class
+com\sliit\mtit\microservice\UserSignInService\service\UserSignInServiceImpl.class
+com\sliit\mtit\microservice\UserSignInService\dto\UserSignUpCreationRequest.class
+com\sliit\mtit\microservice\UserSignInService\dto\UserSignInResponse.class
+com\sliit\mtit\microservice\UserSignInService\Test\SpringFoxConfig.class
+com\sliit\mtit\microservice\UserSignInService\UserSignInServiceApplication.class
